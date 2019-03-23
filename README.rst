@@ -15,4 +15,4 @@ Example code for the book `Fluent Python`_ by Luciano Ramalho (O'Reilly, 2014).
 
 .. _Fluent Python: http://shop.oreilly.com/product/0636920032519.do 
 
-# 《流畅的python》书中的示例
+#《流畅的python》书中的示例
